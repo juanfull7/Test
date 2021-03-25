@@ -37,3 +37,6 @@ despues de descomprimir el archivo del wordpress  en el localhost debemos de ing
 
 Paso 5
 despues de ingresar al dashboard debemos activar la plantilla esto lo hacemos desde Appearance -- Themes, con esto la plantilla quedara activada y lista para su uso...
+
+NOTA :
+EL ARCHIVO COMPRIMIDO wordpresstest.zip NECESITA DE LOS 8 VOLUMENES ANEXOS PARA PODERSE DESCOMPRIMIR CON EXITO..
